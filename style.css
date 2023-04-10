@@ -1,0 +1,23 @@
+#Title {
+    font-size : 125px;
+    font-family: 'Shadows Into Light', cursive;
+    
+  }
+  body {
+     text-align : center;
+    background : #3CA6A6;
+  }
+  .stuff {
+    font-size : 20px;
+    font-family: 'Signika', sans-serif;
+  }
+  #SucculentImg {
+    width : 40%;
+    border-style : solid;
+    padding : 10px;
+    border-radius : 25px;
+  }
+  .blah {
+    font-size: 30px;
+    font-family: 'Signika', sans-serif;
+  }
